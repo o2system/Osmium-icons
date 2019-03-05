@@ -56,7 +56,7 @@ distromatch() {
 
 # in case lsb_release detection fails, try /etc/os-release
 alt_distromatch() {
-    local pattern="ID=arch:ID=opensuse:ID=raspbian:ID=ubuntu:ID=nixos:ID=solus:ID=rosa"
+    local pattern="ID=arch:ID=opensuse:ID=raspbian:ID=ubuntu:ID=o2system-os:ID=nixos:ID=solus:ID=rosa"
     local IFS=:
     distro_error=1
     for i in $pattern; do
