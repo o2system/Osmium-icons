@@ -70,8 +70,8 @@ machine. If you found another candidate for the list, tell us!
 If you can't find *anything* in this repository, and you're certain there are
 no absolute paths in your `.desktop` file, open an issue and I'll try to fix
 the problem. It's possible the icon has not yet been included. Feel free to
-submit an [icon request](https://github.com/keeferrourke/la-capitaine-icon-theme/wiki/Submitting-Icon-Requests)
-or a [pull request](https://github.com/keeferrourke/la-capitaine-icon-theme/wiki/Submitting-Pull-Requests).
+submit an [icon request](https://github.com/o2system/o2system-icon-theme/wiki/Submitting-Icon-Requests)
+or a [pull request](https://github.com/o2system/o2system-icon-theme/wiki/Submitting-Pull-Requests).
 If you want to submit a request, please be sure to read the wiki carefully, so
 as not to waste my time.
 
@@ -85,12 +85,12 @@ following problems.
 Your desktop environment or system might not be supported.
 Some older environments do not support SVG icons. The solution to this would be
 to rasterize the vector graphics, however this is not officially planned.
-See [supported environments](https://github.com/keeferrourke/la-capitaine-icon-theme/wiki#supported-environments)
+See [supported environments](https://github.com/o2system/o2system-icon-theme/wiki#supported-environments)
 on the wiki for more information.
 
  2. The icon theme installation is faulty or not accessible
 
-First of all make sure that you have copied the `la-capitaine-icon-theme`
+First of all make sure that you have copied the `o2system-icon-theme`
 (name doesn't matter) folder into either `/usr/share/icons` or `~/.icons`, as
 described in the [README](README.md).
 
