@@ -31,11 +31,6 @@ to keep the size of this project to a minimum.
 You'll need to run the configuration script to tell O2System OS to
 update its directory structure to use the dark variant.
 
-### Troubleshooting
-If something does not work as expected with O2System OS, take a look at
-[`SUPPORT`](.github/SUPPORT.md). There you'll find the most common
-traps, their solutions and known issues. Please read this doc before
-submitting an issue.
 
 ### License
 O2System OS is fully free software that is dual-licensed under the MIT
@@ -47,5 +42,3 @@ changes. This art is to be treated as a GPLv3 licensed library.
 
 The included configuration script is licensed under the permissive MIT
 license.
-
-See the `LICENSE` and `COPYING` files for more details.
